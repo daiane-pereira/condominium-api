@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: condominium-app
+
+file-database:
+  path: C:\Users\55519\Documents\database.txt
