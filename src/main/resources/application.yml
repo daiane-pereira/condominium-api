@@ -3,4 +3,4 @@ spring:
     name: condominium-app
 
 file-database:
-  path: C:\Users\55519\Documents\database.txt
+  path: caminho do arquivo txt de banco #Exemplo: C:\Users\55519\Documents\database.txt
